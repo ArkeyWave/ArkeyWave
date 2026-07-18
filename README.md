@@ -22,8 +22,6 @@ delegated operations, and a self-improving agent that ships its own fixes.
   WhatsApp integrations. Runs low-touch on a VPS fleet I provision and operate myself.
 - **NCBA CLUSA platform** (5 years, sole developer) — cooperative education platform now serving
   **12,000+ students**. Cut a 120s response time to 2s; stood up a 57-test Playwright suite.
-- **4 products shipped solo** from concept to production — PostGIS trail/bike-shop discovery, a pet
-  first-aid app, a wedding-vendor marketplace, and a hyper-local city directory.
 
 > Most of my current work lives in private client and product repos. The live proof is at
 > **[oyeia.pe](https://oyeia.pe)** — happy to walk you through it.
